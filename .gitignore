@@ -115,3 +115,6 @@ out
 *.sw?
 
 .vercel
+
+# aws
+.env
